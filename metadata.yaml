@@ -1,5 +1,8 @@
 _repo: Dr.-Heidenhoff-s-Process_7052
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bellamy, Edward
@@ -11,6 +14,8 @@ creator:
 description: "Dr. Heidenhoff's Process is an early novel by American author Edward\
   \ Bellamy. The book was first published by D. Appleton & Company in 1880.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7052#Dr.-Heidenhoff-s-Process
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
